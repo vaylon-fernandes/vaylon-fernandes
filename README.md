@@ -1,5 +1,9 @@
 ### Hi I am Vaylon 👋
-
+ - 💻 I'm on my way to be a python developer 
+ - 🌱 I’m currently learning Flask 
+ - 🔍On the lookout for a job/internship
+ - 📫 Feel free to reach out to me to collabrate or ask for help 
+ - ✉ You can find my contact info on my portfolio [here](https://vaylonfernandes.netlify.app/)
 <!--
 **vaylon-fernandes/vaylon-fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
