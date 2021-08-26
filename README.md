@@ -3,7 +3,13 @@
  - 🌱 I’m currently learning Flask 
  - 🔍On the lookout for a job/internship
  - 📫 Feel free to reach out to me to collabrate or ask for help 
- - ✉ You can find my contact info on my portfolio [here](https://vaylonfernandes.netlify.app/)
+ - ✉ You can find my contact info on my portfolio [here](https://vaylonfernandes.netlify.app/)<br>
+
+
+<!--[!Vaylon's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaylon-fernandes)](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaylon-fernandes&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **vaylon-fernandes/vaylon-fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
