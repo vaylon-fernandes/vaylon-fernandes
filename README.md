@@ -1,6 +1,7 @@
 ### Hi I am Vaylon 👋
  - 💻 I'm on my way to be a python developer 
  - 🌱 I’m currently learning Flask 
+ - 🛠️ Currently working at Divine Computech 
  - 🔍On the lookout for a job/internship
  - 📫 Feel free to reach out to me to collabrate or ask for help 
  - ✉ You can find my contact info on my portfolio [here](https://vaylonfernandes.netlify.app/)<br>
