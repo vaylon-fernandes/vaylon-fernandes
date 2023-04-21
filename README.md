@@ -1,7 +1,7 @@
 ### Hi I am Vaylon 👋
- - 💻 I'm on my way to be a python developer 
- - 🌱 I’m currently learning Flask 
- - 🛠️ Currently working at Digisol Systems Limited 
+ - 💻 I'm on my way to be a Software developer 
+ - 🌱 I’m currently pursuing my PG-DAC at IACSD,Akurdi
+<!--  - 🛠️ Currently working at Digisol Systems Limited  -->
 <!--  - 🔍On the lookout for a job/internship -->
  - 📫 Feel free to reach out to me to collabrate or ask for help 
  - ✉ You can find my contact info on my portfolio [here](https://vaylonfernandes.netlify.app/)<br>
