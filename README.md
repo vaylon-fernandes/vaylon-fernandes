@@ -1,5 +1,5 @@
 <hr>
-### Hi, I am Vaylon! 👋
+<h3>Hi, I am Vaylon! 👋 </h3>
 
 - 💻 I'm on my way to be a Software developer.
 - 🌱 I have a Post Graduate Diploma in Advanced Computing [PG-DAC][CDAC] along with a B.E. in Electronics and Telecommunication Engineering.
