@@ -4,7 +4,6 @@
 - 💻 I'm on my way to be a Software developer.
 - 🌱 I have a Post Graduate Diploma in Advanced Computing [PG-DAC][CDAC] along with a B.E. in Electronics and Telecommunication Engineering.
 - 💻 I enjoy coding and solving problems 🛠️
-- 🔍 On the lookout for a job/internship.
 - 📫 Feel free to reach out to me! We can connect on [LinkedIn](https://www.linkedin.com/in/vaylon-fernandes/) or via [mail](mailto:fernandesvaylon@gmail.com).
 
 <p align="center">
